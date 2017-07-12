@@ -7,9 +7,15 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
 .box_2 {
 }
+.box_3 {
+}
 ._图片 {
+}
+.placeholder {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -64,6 +70,11 @@
 .text_field {
   color:#000000;
   text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+._流程形状 {
 }
 .table_cell {
 }
